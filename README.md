@@ -307,7 +307,6 @@ A full placement cycle using the sample data:
 
 ## Author
 
-**Vijaya Arun**
+**Vijaya Arun S**
 BTech Artificial Intelligence and Data Science
-GitHub: `<your-github-link>`
-LinkedIn: `<your-linkedin-link>`
+LinkedIn: `https://www.linkedin.com/in/vijayaarun123/`
